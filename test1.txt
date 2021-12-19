@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6ADE-F9E0
+
+ Directory of C:\Users\Manos\Desktop\myProject
+
+19/12/2021  12:42 ££    <DIR>          .
+19/12/2021  12:42 ££    <DIR>          ..
+19/12/2021  12:42 ££                 0 test1.txt
+19/12/2021  12:42 ££               353 testq
+               2 File(s)            353 bytes
+               2 Dir(s)  177.205.719.040 bytes free
